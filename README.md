@@ -1,4 +1,4 @@
- Hi there 👋
+## Olá, eu sou a Hívi 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... #html, #css, #js
